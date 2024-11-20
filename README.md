@@ -1,4 +1,4 @@
-# Rock Paper Scissors
+# Rock Paper Scissors Game
 A Python GUI application for playing Rock Paper Scissors using Tkinter.
 
 ## Features
